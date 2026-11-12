@@ -1,2 +1,5 @@
-# hemostasis-external-only-2-quiz
-Hemostasis · External Only (2) · Quiz
+# Hemostasis · External Only (2) · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
